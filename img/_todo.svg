@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Screenshot pending">
+  <rect width="960" height="540" fill="#e8eef5"/>
+  <rect x="24" y="24" width="912" height="492" rx="12" fill="#f7fafc" stroke="#9aa8b8" stroke-width="2" stroke-dasharray="10 8"/>
+  <g transform="translate(430 200)" fill="none" stroke="#6b7c8f" stroke-width="6">
+    <rect x="12" y="28" width="76" height="52" rx="8"/>
+    <circle cx="50" cy="54" r="14"/>
+    <path d="M28 28 l10-14 h24 l10 14"/>
+  </g>
+  <text x="480" y="330" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="22" fill="#4a5b6c">Screenshot pending</text>
+  <text x="480" y="362" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14" fill="#6b7c8f">Drop a PNG at the path named in the caption</text>
+</svg>
