@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Online help
+    url: https://vladimirzubkov.github.io/VideoMonitorDocs/
+    about: User guide, FAQ, and troubleshooting
