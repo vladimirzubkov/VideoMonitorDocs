@@ -1,0 +1,21 @@
+name: Feature request
+description: Something you want the program to do
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feature request. GitHub will mark this issue with the **enhancement** label.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The job you have, in ordinary words.
+      placeholder: I want overnight encodes to wait until 23:00.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: How should it work?
