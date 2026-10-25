@@ -1,0 +1,45 @@
+name: Bug report
+description: Something went wrong
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bug report. GitHub will mark this issue with the **bug** label.
+  - type: textarea
+    id: steps
+    attributes:
+      label: What did you do?
+      description: Enough that someone else can try the same thing.
+      placeholder: Started a runner on an mp4, then pressed Pause.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should have happened?
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The version on the About logo.
+      placeholder: 1.11.125 beta
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: System
+      options:
+        - Windows
+        - macOS
+        - Linux
+    validations:
+      required: true
