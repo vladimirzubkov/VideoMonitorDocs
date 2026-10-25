@@ -1,0 +1,25 @@
+{
+  "tag_name": "v1.11.125-beta",
+  "published_at": "2026-10-24T23:01:13Z",
+  "body": "Public beta portable build: binary + LICENSE.txt. FFmpeg and yt-dlp are not included.\n<!-- downloads-since: 2026-09-17 -->\n<!-- downloads-carry: {\"windows\":20,\"linux\":1,\"macos\":0} -->\n<!-- windows-sha256: 7b3751f52b64dfd6ed1503cabfcdd7262e79c945d96085cdc0a17c46259c4756 -->\n",
+  "assets": [
+    {
+      "name": "release-body.md",
+      "size": 274,
+      "download_count": 0,
+      "browser_download_url": "https://github.com/vladimirzubkov/VideoMonitorDocs/releases/download/v1.11.125-beta/release-body.md"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 110,
+      "download_count": 0,
+      "browser_download_url": "https://github.com/vladimirzubkov/VideoMonitorDocs/releases/download/v1.11.125-beta/SHA256SUMS.txt"
+    },
+    {
+      "name": "video-monitor-v1.11.125-windows-x86_64.zip",
+      "size": 12730834,
+      "download_count": 10,
+      "browser_download_url": "https://github.com/vladimirzubkov/VideoMonitorDocs/releases/download/v1.11.125-beta/video-monitor-v1.11.125-windows-x86_64.zip"
+    }
+  ]
+}
